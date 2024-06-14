@@ -1,0 +1,9 @@
+llama-index
+openai
+pypdf
+python-dotenv
+sentence_transformers
+torch
+llama-index-llms-huggingface
+langchain
+langchain-community
